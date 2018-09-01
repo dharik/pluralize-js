@@ -1,5 +1,5 @@
 # pluralize-js
-Pluralization engine for modern Javascript/Typescript projects. Ultra low footprint thanks to its modular design.
+Pluralization engine for modern Javascript/Typescript projects. Ultra low footprint (< 3 KB) thanks to its modular design. 
 
 ### Features
 :point_right: Declarative
